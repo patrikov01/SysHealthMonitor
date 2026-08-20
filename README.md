@@ -1,6 +1,6 @@
 # SysHealthMonitor
 
-A small Linux system monitor written in C++17.
+A Linux system monitor.
 
 ## Build
 
